@@ -3,6 +3,7 @@ Kojo
 en 
 stor
 padda
+tomat
 den 
 är
 grön
