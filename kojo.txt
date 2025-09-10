@@ -4,6 +4,8 @@ Kojo
 en 
 stor
 padda
+vit
+svart
 tomat
 den 
 är
