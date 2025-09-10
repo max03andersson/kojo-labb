@@ -4,8 +4,6 @@ Kojo
 en 
 stor
 padda
-vit
-svart
 tomat
 den 
 är
@@ -13,3 +11,5 @@ grön
 den
 är 
 fin
+vit
+svart
